@@ -1,0 +1,151 @@
+{
+  "questions": [
+    {
+      "category": "Java",
+      "question": "Which is a valid keyword in java?",
+      "imgName": "java_1",
+      "answers": [
+        "interface",
+        "string",
+        "float",
+        "unsigned"
+      ],
+      "areCorrect": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "category": "Java",
+      "question": "Which is a reserved word in the Java programming language?",
+      "imgName": "",
+      "answers": [
+        "method",
+        "native",
+        "subclasses",
+        "reference"
+
+      ],
+      "areCorrect": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "category": "Android",
+      "question": "How many ports are allocated for new emulator?",
+      "imgName": "android_2",
+      "answers": [
+        "2",
+        "0",
+        "10",
+        "None of the above."
+      ],
+      "areCorrect": [
+        true,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "category": "Android",
+      "question": "What are your thoughts about Android Studio?",
+      "imgName": "",
+      "answers": [
+      ],
+      "areCorrect": [
+      ]
+    },
+    {
+      "category": "Android",
+      "question": "What is the Android Application Architecture?",
+      "imgName": "android_1",
+      "answers": [
+        "Services",
+        "Intent",
+        "Layout",
+        "Notification "
+      ],
+      "areCorrect": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "category": "Mobile",
+      "question": "How often do you use your mobile?",
+      "imgName": "",
+      "answers": [
+      ],
+      "areCorrect": [
+      ]
+    },
+    {
+      "category": "Mobile",
+      "question": "What are the types of mobile app testing?",
+      "imgName": "",
+      "answers": [
+        "Usability testing",
+        "Accessibility testing",
+        "Interface testing",
+        "Performance Testing"
+      ],
+      "areCorrect": [
+        true,
+        false,
+        true,
+        true
+      ]
+    },
+    {
+      "category": "Mobile",
+      "question": "The first text message was sent by a 22-year-old engineer more than 20 years ago. What did it say?",
+      "imgName": "",
+      "answers": [
+        "Happy Easter",
+        "Merry Christmas",
+        "Hello World",
+        "Happy New Year"
+      ],
+      "areCorrect": [
+        false,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "category": "Java",
+      "question": "What are two types of constructors in Java?",
+      "imgName": "java_2",
+      "answers": [
+        "Default constructor",
+        "Parameterized constructor",
+        "Class constructor",
+        "Instance constructor"
+      ],
+      "areCorrect": [
+        true,
+        true,
+        false,
+        false
+      ]
+    },
+    {
+      "category": "Java",
+      "question": "What is the difference between equals() and == ?",
+      "imgName": "",
+      "answers": [
+      ],
+      "areCorrect": [
+      ]
+    }
+  ]
+}
